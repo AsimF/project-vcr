@@ -2,4 +2,7 @@
 
 https://stackoverflow.com/questions/17601698/can-django-do-multi-thread-works
 
+[11/12]
++we decided to use Django web-socket connection, because using LIBUSB direct USB connection requires C Server implementation. If Web-socket doesn’t work, we’ll use HTTP Async Communication. We already will be running multi-threaded tasks with web-socket with a data-handler that only updates the server and phones respectively with the latest data that was processed or collected.
 
+[11/
