@@ -1,0 +1,5 @@
+﻿https://web.stanford.edu/class/ee368/Android/Tutorial-3-Server-Client-Communication-for-Android.pdf
+
+https://stackoverflow.com/questions/17601698/can-django-do-multi-thread-works
+
+
