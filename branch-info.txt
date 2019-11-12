@@ -1,2 +1,2 @@
-this branch is for android implementation of reading hand data and sending it to server.
+This branch is for recognizing the hand on a python implemented server.
 
