@@ -1,2 +1,2 @@
-This branch is for recognizing the hand on a python implemented server.
+This branch is for android app implementation.
 
