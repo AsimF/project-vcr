@@ -1,0 +1,2 @@
+this branch is for android implementation of reading hand data and sending it to server.
+
