@@ -1,2 +1,0 @@
-This branch is for recognizing the hand on a python implemented server.
-
