@@ -12,7 +12,7 @@ requests<br />
 scipy<br />
 pyzmq
 
-## How to learn
+## How to run
 before you execute the python file, you need to download application "IP webcam" in google store.<br />
 In IP webcam, set the resolution as 480,320 and press start server.<br />
 <br />
