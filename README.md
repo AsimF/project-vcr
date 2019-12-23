@@ -5,7 +5,7 @@ mobile phone, vr application, android/iOS, hand recognition application
 *you need graphic card to execute it.
 
 ## requirements
-cudnn
+cudnn \n
 cupy
 opencv-python
 requests
