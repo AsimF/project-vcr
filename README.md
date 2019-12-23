@@ -1,10 +1,10 @@
 # project-vcr
 mobile phone, vr application, android/iOS, hand recognition application
 
-#Running environment
+# Running environment
 *you need graphic card to execute it.
 
-##requirements
+## requirements
 cudnn
 cupy
 opencv-python
@@ -12,7 +12,7 @@ requests
 scipy
 pyzmq
 
-#How to learn
+# How to learn
 before you execute the python file, you need to download application "IP webcam" in google store.
 In IP webcam, set the resolution as 480,320 and press start server.
 
